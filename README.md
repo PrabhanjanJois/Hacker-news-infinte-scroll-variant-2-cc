@@ -1,8 +1,8 @@
 # Assignment-3 Variant-2.
-## Hacker News With Infinte Scroll. 
+## Hacker News With Infinite Scroll. 
 
 Hacker news application was given has the 3rd Assignment. In Variant 2 the problem statement was to implement infinte scroll bar for hacker news app.
-I have implemented this by referring youtube and other developmental websites, Learnt how to implement infinte scroll in react and found it intersting.
+I have implemented this by referring youtube and other developmental websites, Learnt how to implement infinite scroll in react and found it intersting.
 \
 \
 Have deployed this application in <b> Netlify </b>
@@ -37,7 +37,7 @@ Youtube Reference -> [Click Here](https://www.youtube.com/c/CognitiveSurge)
 \
 <b>_Pic 1: Interface of Hacker News_</b>
 ![Screenshot (105)](https://user-images.githubusercontent.com/72604642/169698290-6794e4c7-f2a6-439b-9a89-f9c170634431.png)
-<b>_Pic 2: Showing Infinte Scrolling_</b>
+<b>_Pic 2: Showing Infinite Scrolling_</b>
 
 
 
