@@ -32,7 +32,6 @@ Youtube Reference -> [Click Here](https://www.youtube.com/c/CognitiveSurge)
   * Run <b>npm start</b> in terminal.
 
 <b>_Some of the SnapShots are as follows_</b>
-
 \
 \
 <b>_Pic 1: Interface of Hacker News_</b>
