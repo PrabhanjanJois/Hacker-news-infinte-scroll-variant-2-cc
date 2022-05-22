@@ -9,6 +9,7 @@ Have deployed this application in <b> Netlify </b>
 \
 Click the link to open the application -> [Link for Hacker news App](https://startling-klepon-2a243b.netlify.app/)
 \
+Variant 1 Git Repo Link -> [Pagination Implemented ](https://github.com/PrabhanjanJois/Hacker-news-pagination-variant-1-cc)
 Youtube Reference -> [Click Here](https://www.youtube.com/c/CognitiveSurge)
 \
 \
