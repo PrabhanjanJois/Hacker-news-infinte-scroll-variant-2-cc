@@ -7,7 +7,7 @@ I have implemented this by referring youtube and other developmental websites, L
 \
 Have deployed this application in <b> Netlify </b>
 \
-Click the link to open the application -> [Link for Hosted Quiz App](https://startling-klepon-2a243b.netlify.app/)
+Click the link to open the application -> [Link for Hacker news App](https://startling-klepon-2a243b.netlify.app/)
 \
 Youtube Reference -> [Click Here](https://www.youtube.com/c/CognitiveSurge)
 \
